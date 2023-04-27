@@ -13,15 +13,17 @@ header {
   padding: 1em;
 }
 
+section {
+  background: lightblue;
+}
+
 h1 {
   text-transform: uppercase;
   color: white;
   margin-bottom: 1em;
 }
 
-section {
-  background: lightblue;
-}
+
 
 .card-grid {
   /* display: flex;
